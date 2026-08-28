@@ -16,8 +16,6 @@ pip install -r requirements.txt
 
 Evaluation instances are distributed separately and are not included in this repository. Download the dataset archive and extract it into the repository root so that the folders appear as `data/ER20/`, `data/ER100/`, and so on.
 
-**Before publishing:** replace this sentence with the permanent dataset URL and DOI. Zenodo is recommended for the archival copy.
-
 ## Evaluate pretrained models
 
 Maximum Cut:
